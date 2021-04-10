@@ -17,6 +17,13 @@ on academic management; only the admin can check or solve the complaint. Admin
 having the authority to remove a User. Admin can generate a report 
 of this system in between selected date of his own choice.
   
+## Demo Video Link:
+  <a href="https://drive.google.com/file/d/1PUwBBFmC0PTt5-5pxKMtpfuRjfPcsCEv/view?usp=drivesdk">Video Link of Student Grievance Portal</a>
+  
+## Presentation Link:
+  <a href="https://drive.google.com/file/d/1Zn4ysQz3LB5UELeBqEl2KmCK0x3by0i7/view?usp=drivesdk">Presentation of Student Grievance Portal</a>
+  
+  
 ## Table of Contents:
   1) Student Registration
   2) Student Login
