@@ -32,7 +32,7 @@ of this system in between selected date of his own choice.
   5) View Complaints by Admin
   6) Reply Complaints by Admin
   7) Complaint Details Checking 
-  8) Status Check by Student
+  8) Status Checking by Student
 
 
 ## Technology Stack:
